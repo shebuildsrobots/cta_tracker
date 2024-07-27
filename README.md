@@ -8,5 +8,5 @@ Apply for an API key at https://www.transitchicago.com/developers/traintrackerap
 Clone this repo and populate the arduino_secrets.h file with your private information, including WiFi name, password, and your API key.
 
 ## Step 3
-Run the code on your Arduino R4 and inspect the Serial Monitor for results. If you'd like to surface the results to an interface such as an LCD, see the circuit schematic below.
+Run the code on your Arduino R4 and inspect the Serial Monitor for results. If you'd like to surface the results to an interface such as an LCD, see the circuit schematic below. See the LCD library reference at arduino.cc/lcdlibrary for more information.
 
